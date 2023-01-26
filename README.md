@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Oluwatomiwa</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Oluwatomiwa</h1>
+<h3 align="center">I'm a passionate Software developer, I enjoy learning new technologies, building great projects </h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
 
@@ -12,7 +12,7 @@
 - 📫 How to reach me **tommydebisi@gmail.com**
 - ⚡ Fun fact **I love to play CODM and i'm a big fan of anime**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tommydebisi" alt="tommydebisi" /></a> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -38,6 +38,13 @@
     <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
+## Fun projects 🔥
+- [A Simple UNIX Shell](https://github.com/tommydebisi/simple_shell) built with **C**
+- [Monty Interpreter](https://github.com/tommydebisi/monty) built with **C**
+- [Airbnb clone](https://github.com/tommydebisi/AirBnB_clone_v4) built with **Javascript, HTML, CSS, Python and MySQL**
+
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tommydebisi" alt="tommydebisi" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tommydebisi&show_icons=true&locale=en&layout=compact" alt="tommydebisi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tommydebisi&show_icons=true&locale=en" alt="tommydebisi" /></p>
