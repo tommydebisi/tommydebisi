@@ -6,10 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tommydebisi&label=Profile%20views&color=0e75b6&style=flat" alt="tommydebisi"/> </p>
 
-- 🌱 I’m currently learning **In-depth Javascript, node.js, and Python**
-- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning **In-depth Cloud computing with AWS**
+- 👀 I’m interested in Backend development, AWS devops and Cloud engineering.
 - 💞️ I’m looking to collaborate on Software related projects
-- 📫 How to reach me **tommydebisi@gmail.com**
+- 📫 How to reach me **tommydebisi@yahoo.com**
 - ⚡ Fun fact **I love to play CODM and i'm a big fan of anime**
 
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/tommy4debisi?t=wvammjwu0mx0mg9whr24mg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/tommy4debisi?t=wvammjwu0mx0mg9whr24mg&s=09" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/oluwatomiwa-adebisi-13bb161a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwatomiwa-adebisi-13bb161a0" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oluwatomiwaadebisi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwatomiwa-adebisi-13bb161a0" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_beemo__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tommydebisi" height="30" width="40" /></a>
 </p>
 
@@ -42,6 +42,8 @@
 - [A Simple UNIX Shell](https://github.com/tommydebisi/simple_shell) built with **C**
 - [Monty Interpreter](https://github.com/tommydebisi/monty) built with **C**
 - [Airbnb clone](https://github.com/tommydebisi/AirBnB_clone_v4) built with **Javascript, HTML, CSS, Python and MySQL**
+- [KudiFlow](https://github.com/tommydebisi/KudiFlow-Backend) built with **Nodejs, express, Mongodb and Redis**
+- [Daila](https://github.com/Daila-Dynamic-AI-Learning-App/Daila-Backend) built with **Python, flask, Mongodb and Redis**
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tommydebisi" alt="tommydebisi" /></a> </p>
